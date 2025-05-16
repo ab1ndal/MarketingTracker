@@ -1,0 +1,7 @@
+pandas
+python-dotenv
+openai
+PyMuPDF
+langchain
+python-docx
+msal
